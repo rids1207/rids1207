@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there, This is Rids 👋
 
-# Rids
 
 I specialize in creating custom, efficient, and user-friendly WordPress websites. 
 
